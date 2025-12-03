@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreSystem07
 - 👀 I’m interested in DevOps, Docker, Js, Programming. back and Front/end. Web desing. Social media. 
-- 🌱 I’m currently learning Docker
-- 💞️ I’m looking to collaborate on Docker 
+- 🌱 I’m currently learning Software Analysis and Development At SENA. 
+- 💞️ I’m looking to collaborate or working as a cibersecurity analist. 
 - 📫 How to reach me Write a message AndreSystemrm@gmail.com
 
 <!---
